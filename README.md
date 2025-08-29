@@ -1,11 +1,11 @@
-<h1>Hi, I'm Tesfahun Kassahun! <br/><a href="https://github.com/Matesfu">Projects</a>, <a href="https://www.linkedin.com/in/tesfahun-kassahun-68431425a/">Machine Learning/AI Engineer, Backend Developer</a>, <a href="https://www.youtube.com/@TechFaced">YouTuber</a></h1>
+<h1>Hi, I'm Tesfahun Kassahun! <a href="https://www.linkedin.com/in/tesfahun-kassahun-68431425a/">Machine Learning/AI Engineer, Backend Developer</a>, <a href="https://www.youtube.com/@TechFaced">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Packet Capturing Tool(C, python)</b>
-  - [Pacticing how to capture and analyse packets for building IDS](https://github.com/Matesfu/packet-capturing-tool-C-python-hybrid)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [C for building packet capturing and Analysis engine, Python for GUI, Multi-threading](https://github.com/Matesfu/packet-capturing-tool-C-python-hybrid)
+- <b>Easy-rent Website Backend(NodeJs(express), Mongodb, Payment System)</b>
+  - [website for house rent, scalable and reliable](https://github.com/Matesfu/House-Rent-Project) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
