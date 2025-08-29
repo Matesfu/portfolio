@@ -5,12 +5,9 @@
 - <b>Packet Capturing Tool(C, python)</b>
   - [C for building packet capturing and Analysis engine, Python for GUI, Multi-threading](https://github.com/Matesfu/packet-capturing-tool-C-python-hybrid)
 - <b>Easy-rent Website Backend(NodeJs(express), Mongodb, Payment System)</b>
-  - [website for house rent, scalable and reliable](https://github.com/Matesfu/House-Rent-Project) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [website for house rent, scalable and reliable](https://github.com/Matesfu/House-Rent-Project)
+- <b>airbnb backend Project (Django, PostgreSQL)</b>
+  - [Build a scalable and secure backend](https://github.com/Matesfu/airbnb-clone-project)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
